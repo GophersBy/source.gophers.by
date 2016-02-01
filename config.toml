@@ -1,0 +1,24 @@
+baseurl = "http://gophers.by/"
+languageCode = "en-us"
+title = "Golang Belarus"
+theme = "casper"
+Copyright = "All rights reserved - 2016"
+
+[params]
+  description = "Belarus Golang User Group"
+  author = "GopherBy"
+  cover = "images/gophers_meetup.jpg"
+  authorlocation = "Minsk, Belarus"
+  authorwebsite = "http://gophers.by"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = -110
+  identifier = "about"
+  url = "/about"
