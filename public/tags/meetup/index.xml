@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on Golang Belarus</title>
+    <link>http://gophers.by/tags/meetup/</link>
+    <description>Recent content in Meetup on Golang Belarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Mon, 01 Feb 2016 21:23:34 +0300</lastBuildDate>
+    <atom:link href="http://gophers.by/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>17 февраля митап</title>
+      <link>http://gophers.by/post/feb-17-meetup/</link>
+      <pubDate>Mon, 01 Feb 2016 21:23:34 +0300</pubDate>
+      
+      <guid>http://gophers.by/post/feb-17-meetup/</guid>
+      <description>&lt;p&gt;17 февраля по всему миру пройдет вечеринка посвященная выходу Go 1.6, присоединяемся к безудержному веселью!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/golang/go/wiki/Go-1.6-release-party&#34;&gt;https://github.com/golang/go/wiki/Go-1.6-release-party&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
