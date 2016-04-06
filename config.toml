@@ -1,7 +1,7 @@
 baseurl = "http://gophers.by/"
 languageCode = "en-us"
 title = "Golang Belarus"
-theme = "casper"
+theme = "cactus"
 Copyright = "All rights reserved - 2016"
 
 [params]
@@ -10,6 +10,8 @@ Copyright = "All rights reserved - 2016"
   cover = "images/gophers_meetup.jpg"
   authorlocation = "Minsk, Belarus"
   authorwebsite = "http://gophers.by"
+  name = "Dr. Gopher"
+  bio = "Belarus Golang User Group"
 
 [[menu.main]]
   name = "Blog"

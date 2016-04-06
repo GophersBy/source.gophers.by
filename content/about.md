@@ -20,4 +20,5 @@ title = "about"
 - [dev.by slack](http://slack.dev.by) #go
 - [GolangRussian](http://4gophers.ru/slack) #meetup-minsk.
 
+
 или напишите письмо [we.are@gophers.by](mailto: we.are@gophers.by)

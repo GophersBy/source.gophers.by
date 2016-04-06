@@ -8,7 +8,7 @@ menu = ""
 share = true
 slug = "feb-17-meetup"
 tags = ["meetup"]
-title = "17 февраля митап"
+title = "Митап #2 17 февраля"
 
 +++
 
