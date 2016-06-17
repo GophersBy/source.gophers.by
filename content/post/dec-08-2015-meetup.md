@@ -6,7 +6,7 @@ draft = false
 image = "images/meetup_template.jpg"
 menu = ""
 share = true
-slug = "feb-17-meetup"
+slug = "dec-08-2015-meetup"
 tags = ["meetup"]
 title = "Митап #1: 8 декабря 2015"
 
